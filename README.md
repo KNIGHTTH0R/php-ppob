@@ -1,2 +1,2 @@
 # php-ppob
-Documentations for implementation ppob (mobilepulsa.net)
+Documentations for implementation PPOB (mobilepulsa.net)
